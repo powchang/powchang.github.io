@@ -1684,3 +1684,9 @@ responsive
 #features .feature-block p {
   margin-bottom: 0;
 }
+
+.img-fluid {
+  height: 60px;
+  margin-bottom: 30px;
+  width: 60px;
+}
