@@ -1374,7 +1374,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 
 .basic-2 h2 {
 	margin-bottom: 3.75rem;
-	text-align: left;
+	text-align: center;
 }
 
 .basic-2 .li-space-lg li {
@@ -1392,5 +1392,5 @@ body.mobile-nav-active #mobile-nav-toggle i {
 	font-weight: 700;
 	font-size: 0.875rem;
 	line-height: 2rem;
-	text-align: left;
+	text-align: center;
 }
